@@ -2,7 +2,7 @@ header{
     width: 800px;   
     margin: auto;
     border: solid;
-    background-color: mediumpurple;    
+    background-color: rgb(163, 147, 196);    
     text-align: center;
 }
 
@@ -19,7 +19,7 @@ h2{
 }
 
 .about{
-    background-color: lightcoral;
+    background-color: rgb(223, 191, 191);
     width: 800px;   
     margin: auto;
     padding-bottom: 5px;
@@ -38,11 +38,11 @@ h2{
     border-top: solid;
     width: 800px;
     margin: auto;
-    background-color: coral;
+    background-color: rgb(180, 143, 130);
     border-bottom: solid;
 }
 
 footer{
-    background-color: #333;
+    background-color: #9e8d8d;
     font-size: 30px;
 }
