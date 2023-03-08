@@ -1,0 +1,48 @@
+header{
+    width: 800px;   
+    margin: auto;
+    border: solid;
+    background-color: mediumpurple;    
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.about{
+    background-color: lightcoral;
+    width: 800px;   
+    margin: auto;
+    padding-bottom: 5px;
+    border-top: solid;
+    
+    margin-top: 10px;
+}
+
+.kanan{    
+    text-align: right;    
+    margin-right: 10px;
+}
+
+.isi{
+    margin-top: 20px;
+    border-top: solid;
+    width: 800px;
+    margin: auto;
+    background-color: coral;
+    border-bottom: solid;
+}
+
+footer{
+    background-color: #333;
+    font-size: 30px;
+}
